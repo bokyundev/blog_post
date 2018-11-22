@@ -12,7 +12,7 @@
 우선 Django를 설치해야 한다. **Django를 설치하기 위한 과정은 간단하게 3단계**로 나눠볼 수 있다.
 
 1. Python(Python3)을 설치한다.
-2. Python 가상환경(Virtualenv)을 설치한다.
+2. Python 가상환경(Virtualenv)을 설치한다. 
 3. Django를 설치한다.
 
 우선 설치하기 전에 폴더를 생성하고 이동했다.
