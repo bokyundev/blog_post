@@ -10,5 +10,9 @@
 
 ### Linux
 
-- 리눅스 관련된 내용 
+- Linux
 
+### python_django
+
+- Python & Django
+- 블로그 내 카테고리는 python
