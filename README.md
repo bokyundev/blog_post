@@ -12,6 +12,6 @@
 
 - Linux
 
-### python_django
+### Django
 
 - Django
